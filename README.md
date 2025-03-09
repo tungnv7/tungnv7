@@ -2,7 +2,7 @@
   <img height="300" src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif"  />
 </div>
 
-<p align="center">My name is Tung and I'm a Backend Java Developer from VietNam.</p>
+<h2 align="center">My name is Tung and I'm a Backend Java Developer from VietNam.</h2>
 
 ###
 
