@@ -12,14 +12,6 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎯 Goals: Code Java thành thạo<br>🎲 Fun fact: Gặp bug nhiều hơn gặp người yêu 😆</p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tungnv7/count.svg?"  />
-</div>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
