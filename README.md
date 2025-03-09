@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Tung and I'm a Backend Java Developer from VietNam.</p>
+<p align="center">My name is Tung and I'm a Backend Java Developer from VietNam.</p>
 
 ###
 
